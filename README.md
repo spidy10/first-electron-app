@@ -15,8 +15,8 @@ This is a basic Electron.js application. Electron allows you to build cross-plat
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/my-electron-app.git
-    cd my-electron-app
+    git clone https://github.com/yourusername/first-electron-app.git
+    cd first-electron-app
     ```
 
 2. **Install dependencies**:
